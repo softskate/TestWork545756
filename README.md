@@ -147,7 +147,7 @@ docker-compose up --build
 
 Run tests using `pytest`:
 ```bash
-pytest
+pytest tests/
 ```
 
 ---
