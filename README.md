@@ -33,8 +33,8 @@ This project is a REST API microservice for processing and analyzing transaction
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repository/transaction-analysis.git
-cd transaction-analysis
+git clone https://github.com/softskate/TestWork545756.git
+cd TestWork545756
 ```
 
 ### 2. Set Up a Virtual Environment
